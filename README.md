@@ -5,5 +5,5 @@ The can_decoder.py scripts imports the DBC file and the raw data file from the a
 The DBC file for Kia Soul EV is also included in the /DBC directory [Only for throttle, steering and vehicle speed messages]. 
 
 
-![alt text](AV_Platform.gif)
-The CANBUS data decoder script was used for data collection for the Autonomous Vehicle (AV) platform project at SafeAI lab, Carnegie Mellon University. The steering, throttle and brake data was recorded and added to the dataset. The steering and throttle data can be observed in the gif above. 
+![alt text](AV_Platform.gif) <br>
+The CANBUS data decoder script was used for data collection for the Autonomous Vehicle (AV) platform project at SafeAI lab, Carnegie Mellon University. The steering, throttle and brake data was recorded and added to the dataset. An example of the recorded dataset can be observed in the gif above.
